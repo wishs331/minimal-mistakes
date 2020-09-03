@@ -1,6 +1,7 @@
 ---
 # layout: default
 permalink: /categories/
+author_profile: true
 ---
 <h3>HTML</h3>
 <ul class="posts-list">
