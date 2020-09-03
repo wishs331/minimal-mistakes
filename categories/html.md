@@ -3,7 +3,7 @@
 # layout: category
 title : html
 category : html
-permalink: '/categories/html'
+permalink: '/category/html'
 ---
 
 <ul class="posts-list">

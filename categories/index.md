@@ -1,6 +1,6 @@
 ---
 # layout: default
-permalink: /categories/
+permalink: /category/
 ---
 <h3>HTML</h3>
 <ul class="posts-list">
