@@ -1,9 +1,9 @@
 ---
-# 카테고리 : html.md 
+# 카테고리 : javascript.md 
 # layout: category
-title : html
-category : html
-permalink: '/categories/html'
+title : javascript
+category : javascript
+permalink: '/categories/javascript'
 ---
 
 <ul class="posts-list">
