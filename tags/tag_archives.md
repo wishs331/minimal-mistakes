@@ -1,5 +1,5 @@
 ---
 layout: tag_archives
-permalink: /tags/archives
+permalink: /tags/
 title: Tags
 ---
