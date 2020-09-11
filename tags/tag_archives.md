@@ -1,5 +1,5 @@
 ---
-layout: tag_archives
+layout: tags
 permalink: /tags/
 title: Tags
 ---
